@@ -1,2 +1,2 @@
-# Ejercicio5
+# ejercicioMayorDeTres
 Created with CodeSandbox
